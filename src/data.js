@@ -79,7 +79,7 @@ export const featuredPortfolio = [
     },
     {
       id: 3,
-      title: "Mobile E-commerce Design",
+      title: "coming soon",
       img:
         "https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/48ac2b43ebe81ba0866afea1383cc939.png?compress=1&resize=1200x900",
     },
